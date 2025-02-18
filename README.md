@@ -26,4 +26,4 @@ Pivot Table 2: Customer Commute
 Pivot Table 3: Customer Age Brackets
 
 ## Dashboard visualisation
-![image alt] (https://github.com/RishikaShrestha/Excel/blob/main/Bike%20Sales%20Dashboard.png?raw=true)
+![ScreenShot] (https://github.com/RishikaShrestha/Excel/blob/main/Bike%20Sales%20Dashboard.png?raw=true)
